@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎮 JABBAR.DEV
+# 🎮 JABBAR HANIF
 
 ### `WELCOME, PLAYER.`
 
